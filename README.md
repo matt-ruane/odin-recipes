@@ -1,3 +1,3 @@
 # odin-recipes
 
-Hello and welcome to my first html project! To show off my newly-acquired skills I will be creating a simple recipe website. Get your tables wiped and your oven mitts on because these recipes are certified slappers. Once finished I will have demonstrated my ability to write html boilerplate, how to use tags and attributes to create basic websites, and furthered my knowledge of using Git and GitHub.
+Hello and welcome to my first html project! To show off my newly-acquired skills I will be creating a simple recipe website. Get your tables wiped and your oven mitts on because these recipes are certified hits. Once finished I will have demonstrated my ability to write html boilerplate, to use tags and attributes to create basic websites, and will have furthered my knowledge of using Git and GitHub.
